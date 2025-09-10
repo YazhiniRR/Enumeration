@@ -3,10 +3,9 @@ Enumeration Techniques
 
 # Explore Google hacking and enumeration 
 ```
-Pavitra .J
-212224110043
-CSE(IOT)
-
+YAZHINI R R
+212224100063
+CSE(CS)
 ```
 
 # AIM:
